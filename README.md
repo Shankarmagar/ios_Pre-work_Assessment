@@ -1,5 +1,3 @@
-# ios_Pre-work_Assessment
-Pre-work Assessment
 # Pre-work - Tip Calculator
 
 Tip Calculator
@@ -29,7 +27,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-
+take little time to familiarize with syntax of swift since i have learned java and c++ so far.
 
 ## License
 
